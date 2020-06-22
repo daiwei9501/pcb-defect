@@ -1,0 +1,3 @@
+spurious_copper 537 985 637 1013
+spurious_copper 740 1260 775 1332
+spurious_copper 412 912 468 955

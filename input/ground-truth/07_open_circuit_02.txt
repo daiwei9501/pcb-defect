@@ -1,0 +1,5 @@
+open_circuit 2022 244 2068 288
+open_circuit 1772 867 1820 919
+open_circuit 2184 827 2234 884
+open_circuit 799 951 851 1003
+open_circuit 689 403 742 476

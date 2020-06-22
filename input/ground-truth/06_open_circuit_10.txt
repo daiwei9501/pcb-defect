@@ -1,0 +1,5 @@
+open_circuit 1988 995 2020 1050
+open_circuit 1299 1036 1351 1080
+open_circuit 938 1319 977 1378
+open_circuit 632 302 683 341
+open_circuit 1368 325 1458 367

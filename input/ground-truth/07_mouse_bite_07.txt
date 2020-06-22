@@ -1,0 +1,5 @@
+mouse_bite 1317 598 1399 648
+mouse_bite 1555 886 1627 951
+mouse_bite 1923 610 1989 682
+mouse_bite 1237 869 1342 919
+mouse_bite 442 844 532 912

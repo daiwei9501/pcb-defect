@@ -1,0 +1,3 @@
+open_circuit 1203 663 1256 707
+open_circuit 147 425 199 477
+open_circuit 311 562 364 626

@@ -1,0 +1,3 @@
+open_circuit 1502 1349 1539 1378
+open_circuit 1653 1196 1684 1229
+open_circuit 775 1127 808 1165

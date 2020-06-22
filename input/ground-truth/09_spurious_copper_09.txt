@@ -1,0 +1,5 @@
+spurious_copper 1077 536 1189 625
+spurious_copper 1584 425 1653 543
+spurious_copper 1100 1110 1146 1181
+spurious_copper 2533 799 2617 890
+spurious_copper 681 405 730 502

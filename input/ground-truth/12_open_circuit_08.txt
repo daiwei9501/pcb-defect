@@ -1,0 +1,5 @@
+open_circuit 1551 397 1600 450
+open_circuit 1967 846 2007 903
+open_circuit 1911 139 1973 184
+open_circuit 1397 1564 1449 1619
+open_circuit 1323 1118 1375 1163

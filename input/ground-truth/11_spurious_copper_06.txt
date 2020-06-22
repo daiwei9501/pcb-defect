@@ -1,0 +1,5 @@
+spurious_copper 1089 342 1158 413
+spurious_copper 1314 375 1376 452
+spurious_copper 1634 757 1686 870
+spurious_copper 752 1185 863 1237
+spurious_copper 1806 1942 1907 2022

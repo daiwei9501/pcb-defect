@@ -1,0 +1,5 @@
+open_circuit 1453 419 1498 477
+open_circuit 1969 1444 2013 1494
+open_circuit 584 1537 642 1581
+open_circuit 640 686 695 732
+open_circuit 856 2014 905 2054

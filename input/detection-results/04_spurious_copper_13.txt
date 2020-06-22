@@ -1,0 +1,2 @@
+Spurious_copper 0.9855 2099 618 2142 763
+Spurious_copper 0.8976 900 1091 997 1153

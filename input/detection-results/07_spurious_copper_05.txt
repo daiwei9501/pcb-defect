@@ -1,0 +1,7 @@
+Open_circuit 0.1301 2217 602 2271 667
+Spurious_copper 0.9947 1448 871 1498 970
+Spurious_copper 0.9848 928 972 1065 1026
+Spurious_copper 0.9820 1526 648 1661 705
+Spurious_copper 0.9819 1952 481 2041 574
+Spurious_copper 0.3646 2217 602 2271 667
+Spurious_copper 0.0532 2203 580 2254 652

@@ -1,0 +1,5 @@
+open_circuit 1373 361 1417 410
+open_circuit 1497 372 1546 419
+open_circuit 900 734 951 784
+open_circuit 633 1235 678 1279
+open_circuit 1380 924 1427 966

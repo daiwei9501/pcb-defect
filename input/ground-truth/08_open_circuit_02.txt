@@ -1,0 +1,5 @@
+open_circuit 972 929 1027 977
+open_circuit 884 1243 933 1284
+open_circuit 281 1816 314 1862
+open_circuit 2412 1011 2443 1052
+open_circuit 2019 1322 2054 1369

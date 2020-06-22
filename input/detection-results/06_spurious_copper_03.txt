@@ -1,0 +1,5 @@
+Mouse_bite 0.0915 984 1325 1015 1383
+Spurious_copper 0.9987 2052 836 2099 952
+Spurious_copper 0.9908 2061 317 2098 410
+Spurious_copper 0.9721 1002 488 1052 566
+Spurious_copper 0.9044 1130 422 1280 469

@@ -1,0 +1,3 @@
+Open_circuit 0.8490 495 491 551 551
+Open_circuit 0.4633 397 1073 449 1130
+Open_circuit 0.4332 257 785 302 844

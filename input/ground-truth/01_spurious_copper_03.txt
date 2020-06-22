@@ -1,0 +1,3 @@
+spurious_copper 1539 866 1574 962
+spurious_copper 1854 948 1904 1043
+spurious_copper 1810 1289 1846 1374

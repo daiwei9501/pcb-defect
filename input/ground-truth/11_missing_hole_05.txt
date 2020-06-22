@@ -1,0 +1,5 @@
+missing_hole 1755 1749 1834 1842
+missing_hole 1417 1744 1499 1832
+missing_hole 2022 1806 2122 1899
+missing_hole 861 1749 939 1837
+missing_hole 1145 1868 1217 1952

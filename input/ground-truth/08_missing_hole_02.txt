@@ -1,0 +1,5 @@
+missing_hole 2133 944 2197 1008
+missing_hole 2319 1328 2378 1392
+missing_hole 964 747 1028 805
+missing_hole 1823 1561 1891 1631
+missing_hole 1035 1441 1100 1515

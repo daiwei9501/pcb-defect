@@ -1,0 +1,44 @@
+# AP and precision/recall per class
+0.00% = missing_hole AP 
+ Precision: []
+ Recall :[]
+
+0.00% = mouse_bite AP 
+ Precision: []
+ Recall :[]
+
+0.00% = open_circuit AP 
+ Precision: []
+ Recall :[]
+
+0.00% = short AP 
+ Precision: []
+ Recall :[]
+
+0.00% = spur AP 
+ Precision: []
+ Recall :[]
+
+0.00% = spurious_copper AP 
+ Precision: []
+ Recall :[]
+
+
+# mAP of all classes
+mAP = 0.00%
+
+# Number of ground-truth objects per class
+missing_hole: 497
+mouse_bite: 492
+open_circuit: 482
+short: 491
+spur: 488
+spurious_copper: 503
+
+# Number of detected objects per class
+Missing_hole: 500 (tp:0, fp:500)
+Mouse_bite: 707 (tp:0, fp:707)
+Open_circuit: 524 (tp:0, fp:524)
+Short: 611 (tp:0, fp:611)
+Spur: 586 (tp:0, fp:586)
+Spurious_copper: 558 (tp:0, fp:558)

@@ -1,0 +1,5 @@
+spurious_copper 2020 1365 2086 1434
+spurious_copper 1914 1460 2074 1501
+spurious_copper 1172 1751 1280 1810
+spurious_copper 1544 1834 1695 1881
+spurious_copper 2277 1553 2369 1598

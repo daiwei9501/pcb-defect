@@ -1,0 +1,3 @@
+open_circuit 539 1453 602 1511
+open_circuit 1706 279 1786 348
+open_circuit 559 504 621 566

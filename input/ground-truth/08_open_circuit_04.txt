@@ -1,0 +1,5 @@
+open_circuit 696 1207 745 1243
+open_circuit 379 987 425 1027
+open_circuit 1671 936 1730 977
+open_circuit 698 917 750 948
+open_circuit 2090 1203 2125 1256

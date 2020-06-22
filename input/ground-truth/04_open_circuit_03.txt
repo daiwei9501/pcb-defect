@@ -1,0 +1,3 @@
+open_circuit 941 850 1002 911
+open_circuit 1199 1208 1262 1262
+open_circuit 1879 431 1944 510
